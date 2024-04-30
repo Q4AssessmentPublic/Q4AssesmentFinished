@@ -1,6 +1,6 @@
 # [Q4 Inc.](https://q4inc.com/)
 
-## Front-end Developer Assessment
+## Front-end Developer Assessment COMPLETED 30/04/2024
 
 Welcome to the front-end developer assessment package.
 Below, you will find list criteria used to determine your development skill level:
